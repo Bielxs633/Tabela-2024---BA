@@ -1,0 +1,23 @@
+p{
+    width: 97%;
+  }
+  
+  td{
+    text-align: center;
+    font-size: 20px;
+    width: 20%;
+  }
+  
+  th{
+    background-color: #cccdcf;
+    font-weight: bold;
+    font-size: 35px;
+    width: 27%;
+  }
+  
+  img{
+    margin-top: 16px;
+    margin: auto;
+    display: block;
+    width: 27%;
+  }
